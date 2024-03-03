@@ -1,11 +1,8 @@
-ESP-IDF template app
+Plantillas para la creación de proyectos
 ====================
 
-This is a template application to be used with [Espressif IoT Development Framework](https://github.com/espressif/esp-idf).
+Plantilla basada en [esp-idf-template](https://github.com/espressif/esp-idf-template "Enlace al repositorio original de la plantilla" ). Se agregó específicamente las bibliotecas [FabGL](https://github.com/fdivitto/fabgl) y [bluepad32](https://github.com/ricardoquesada/bluepad32) para trabajar en el desarrollo de los juegos y menús.
 
-Please check [ESP-IDF docs](https://docs.espressif.com/projects/esp-idf/en/latest/get-started/index.html) for getting started instructions.
+La estructura del proyecto es la que toma un proyecto hecho con el [Espressif IoT Development Framework](https://github.com/espressif/esp-idf).
 
-*Code in this repository is in the Public Domain (or CC0 licensed, at your option.)
-Unless required by applicable law or agreed to in writing, this
-software is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR
-CONDITIONS OF ANY KIND, either express or implied.*
+Documentación para el framework se puede hallar [aquí](https://docs.espressif.com/projects/esp-idf/en/latest/get-started/index.html "ESP-IDF docs")
